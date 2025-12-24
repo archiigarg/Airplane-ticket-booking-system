@@ -6,10 +6,8 @@ Welcome to the Airplane Ticket Booking and Management System project! This web a
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -24,9 +22,6 @@ In the fast-paced digital age, the Airplane Ticket Booking and Management System
 - **Admin Panel**: Manage flight listings, user information, and system configurations efficiently.
 - **Responsive Design**: Enjoy a seamless experience across different devices, including desktops, laptops, tablets, and smartphones.
 
-## Demo
-
-Check out the live demo of the Airplane Ticket Booking and Management System [here](https://abvssystem.web.app/).
 
 ## Installation
 
@@ -84,22 +79,6 @@ Once the application is running, users can:
 
 Admin users can access additional functionalities through the admin panel, such as managing flight listings and user information.
 
-## Contributing
-
-Contributions to this project are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/my-feature`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/my-feature`).
-5. Create a new pull request.
-
-Please ensure your contributions adhere to the [code of conduct](CODE_OF_CONDUCT.md).
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to reach out if you have any questions or need further assistance [Piyush Linkedin](https://www.linkedin.com/in/piyushpardeshi/). Happy coding!
